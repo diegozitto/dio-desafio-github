@@ -18,6 +18,14 @@ cd = volta todas as pastas
   4. git remote -v (para checar se está tudo certo)
   5. git branch -M "main" (mudar da branch master para a main)
   6. git push origin main
+
+(SUBIR PROJETOS PARA UM REPOSITORIO GIT)
+  1. criar repositório git na máquina (git init)
+  2. adicionar os arquivos que irão para o github (git add <nome do arquivo>)
+  3. escrever a mensagem de commit (git commit -m "mensagem desejada")
+  4. criar/trocar para a branch "main" (git branch -M main)
+  5. escrever o link para onde os arquivos serão direcionados (git remote add origin HTTPS/SSH)
+  6. subir os arquivos (git push origin main)
   
   (CRIAR NOVA BRANCH)
   1. git branch <nome da branch a ser criada>
