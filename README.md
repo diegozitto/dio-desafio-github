@@ -28,10 +28,10 @@ cd = volta todas as pastas
   6. subir os arquivos (git push origin main)
   
   (CRIAR NOVA BRANCH)
-  1. git branch <nome da branch a ser criada>
-  1.1. ou git branch -b <nome da branch a ser criada>
+  1. git branch (nome da branch a ser criada)
+  1.1. ou git branch -b (nome da branch a ser criada)
   2. git checkout <nome da branch criada> (para trocar para a branch desejada)
-  3. git branch -d <nome da branch a ser deletada>
+  3. git branch -d (nome da branch a ser deletada)
   
   (CHAVE SSH E AGENTE SSH)
   1. comanda ssh-keygen -t ed25519 -C "seuemailgit@exemplo.com"
