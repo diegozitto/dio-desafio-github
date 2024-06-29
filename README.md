@@ -1,4 +1,7 @@
 # dio-desafio-github
+
+![image](https://github.com/diegozitto/dio-desafio-github/assets/81996889/e519a63f-bd4a-4a68-958c-449144da8423)
+
 Comandos básicos de git para cada situação
 
 (MOVIMENTAR ENTRE PASTAS)
